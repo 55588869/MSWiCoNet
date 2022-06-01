@@ -2,7 +2,9 @@
 一个用于遥感图像的语义分割网络模型，支持的数据集为BLU和Potsdam数据集。
 ## 环境配置
 conda create -n xxx python=3.7 -y
+
 conda activate xxx
+
 pip install -r requirements.txt
 ###requirements.txt
 ```bash
